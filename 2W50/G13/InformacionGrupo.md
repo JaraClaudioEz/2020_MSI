@@ -14,6 +14,7 @@
 | 111494 | Barat, Emiliano |[EmiBaratUTN](https://github.com/EmiBaratUTN)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111525 | Dri Furlan, Alejandro Matias |[AlejandroMatiasDriFurlan](https://github.com/AlejandroMatiasDriFurlan)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111484 | Alarcon, Maria Laura |[AlarconLaura](https://github.com/AlarconLaura)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111534 | Gaitan, Lucila Anahi |[Lucilagaitan](https://github.com/lucilagaitan)|[LucilaGaitan](https://ar.linkedin.com/in/lucila-gaitán54a1046175)|
 
 
 # Checklist de estado de actividad
