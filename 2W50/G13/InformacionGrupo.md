@@ -16,6 +16,7 @@
 | 111484 | Alarcon, Maria Laura |[AlarconLaura](https://github.com/AlarconLaura)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111534 | Gaitan, Lucila Anahi |[Lucilagaitan](https://github.com/lucilagaitan)|[LucilaGaitan](https://ar.linkedin.com/in/lucila-gaitán54a1046175)|
 | 111537 | Gordillo, Celeste |[Celeste Gordillo](https://github.com/2w50-CelesteGordillo-111537)|[Celeste Gordillo](https://www.linkedin.com/in/celeste-gordillo-240b7236/)|
+| 111598 | Tirabosque, Desirée |[Desirée Tirabosque](https://github.com/TirabosqueDesiree)|[Desirée Tirabosque](https://www.linkedin.com/in/desirée-tirabosque-15a2b11ab)|
 
 
 # Checklist de estado de actividad
